@@ -33,7 +33,3 @@ For forgot password feature.
 5. Verify the token and save the new password after encrypting it.
 
 ---
-## your completed assignments
-
-- Add your repo link here
-- 
